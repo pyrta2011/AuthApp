@@ -1,0 +1,6 @@
+.custom-file-label::after {
+    content: "Открыть";
+}
+.jumbotron {
+    background-color: #fff;
+}

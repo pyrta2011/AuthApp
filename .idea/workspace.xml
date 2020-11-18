@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3d9d0bd-47ba-4272-b3ad-4fe7c194e750" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k8YXIVXQ0RQNWY9mW5WNHwXORE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/errors" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Программы\OSPanel\domains\AuthApp\libs" />
+      <recent name="D:\Программы\OSPanel\domains\AuthApp\views\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Программы\OSPanel\domains\AuthApp\views\errors" />
+      <recent name="D:\Программы\OSPanel\domains\AuthApp\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d9d0bd-47ba-4272-b3ad-4fe7c194e750" name="Default Changelist" comment="" />
+      <created>1605083723931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605083723931</updated>
+      <workItem from="1605083724992" duration="2693000" />
+      <workItem from="1605089315667" duration="8000" />
+      <workItem from="1605089326432" duration="8820000" />
+      <workItem from="1605360419662" duration="6364000" />
+      <workItem from="1605435813654" duration="24296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="341" key="#Notifications" timestamp="1605435868081">
+      <screen x="0" y="30" width="1920" height="983" />
+    </state>
+    <state x="716" y="341" key="#Notifications/0.30.1920.983/1920.0.1280.689@0.30.1920.983" timestamp="1605435868081" />
+    <state x="610" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605084236421">
+      <screen x="0" y="30" width="1920" height="983" />
+    </state>
+    <state x="610" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.983/1920.0.1280.689@0.30.1920.983" timestamp="1605084236421" />
+    <state x="725" y="228" key="NewPhpClassDialog" timestamp="1605523564794">
+      <screen x="0" y="30" width="1920" height="983" />
+    </state>
+    <state x="725" y="228" key="NewPhpClassDialog/0.30.1920.983/1920.0.1280.689@0.30.1920.983" timestamp="1605523564794" />
+    <state x="794" y="440" key="NewPhpFileDialog" timestamp="1605559084321">
+      <screen x="0" y="30" width="1920" height="983" />
+    </state>
+    <state x="794" y="440" key="NewPhpFileDialog/0.30.1920.983/1920.0.1280.689@0.30.1920.983" timestamp="1605559084321" />
+    <state x="586" y="181" key="SettingsEditor" timestamp="1605084960131">
+      <screen x="0" y="30" width="1920" height="983" />
+    </state>
+    <state x="586" y="181" key="SettingsEditor/0.30.1920.983/1920.0.1280.689@0.30.1920.983" timestamp="1605084960131" />
+    <state x="623" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1605449636942">
+      <screen x="0" y="30" width="1920" height="983" />
+    </state>
+    <state x="623" y="240" width="672" height="678" key="search.everywhere.popup/0.30.1920.983/1920.0.1280.689@0.30.1920.983" timestamp="1605449636942" />
+  </component>
+</project>
